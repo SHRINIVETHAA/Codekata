@@ -6,11 +6,11 @@ int main()
     scanf("%d",&n);
     if(n>0)
     {
-        printf("%d is positive",n);
+        printf("positive");
     }
     else
     {
-        printf("%d is negative",n);
+        printf("negative");
     }
     return 0;
 }
